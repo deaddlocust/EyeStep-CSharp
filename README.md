@@ -1,9 +1,6 @@
 # Forked cause it's really cool
-// Simply include all 3 EyeStep files to compile
-// this project.
-// EyeStep.cs, EyeStepUtility.cs, EyeStepRemote.cs
 
-
+```
 using EyeStepPackage;
 
 // . . .
@@ -53,3 +50,4 @@ using EyeStepPackage;
         
     }
 }
+```
